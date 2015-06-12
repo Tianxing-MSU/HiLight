@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">HiLight</string>
+  <string name="exit_settings">Exit</string>
+
+  <string name="input_file_name">profile_photo.png</string>
+  <string name="dialog_fragment_tag_photo_picker">photo_picker_dialog_fragment</string>
+  <string name="preference_key_input">input_text</string>
+  <string name="preference_key_input_type">radio_group</string>
+  <string name="preference_name">HiLight_preference</string>
+  <string name="ui_encode_hint">MobiSys 2015</string>
+  <string name="ui_encode_words">Encode information (The length of the words must be exactly 12 letters, including blanks)</string>
+  <string name="ui_input_type_image">Image</string>
+  <string name="ui_input_type_video">Video</string>
+  <string name="ui_input_type_universal">Universal</string>
+  <string name="ui_button_start_transmission">Start Transmission</string>
+  <string name="ui_button_cancel_transmission">Stop Transmission</string>
+  <string name="ui_button_open">Open</string>
+  <string name="ui_input_title">Input:</string>
+
+</resources>
