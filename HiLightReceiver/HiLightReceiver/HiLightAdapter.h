@@ -9,8 +9,6 @@
 #import <Foundation/Foundation.h>
 #include "HiLight_Receiver.h"
 
-Class HiLight;
-
 @interface HiLightAdapter : NSObject{
     class HiLight *testObj;
 }

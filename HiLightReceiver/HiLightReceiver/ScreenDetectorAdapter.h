@@ -11,8 +11,6 @@
 
 using namespace cv;
 
-Class ScreenDetector;
-
 @interface ScreenDetectorAdapter : NSObject{
     class ScreenDetector *testObj1;
 }
